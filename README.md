@@ -40,7 +40,7 @@ This project presents an in-depth analysis of bus transportation data through an
 - Dashboard Design: Development of an interactive dashboard with KPI cards and visualizations for effective communication of insights.
 
 ### Dashboards
-[![transportation_dashboard](https://github.com/mrvneslihan/excel-data-analysis-projects/blob/main/bus_transportation_data_analysis/transpotation_dashboard.png)
+![transportation_dashboard](https://github.com/mrvneslihan/excel-data-analysis-projects/blob/main/bus_transportation_data_analysis/transpotation_dashboard.png)
 
 ## Contact Information
 
